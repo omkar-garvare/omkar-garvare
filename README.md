@@ -6,9 +6,7 @@
 
 ###
 
-
 <h3 align="center" >🌱 Motivated and hard-working CSE undergraduate student with experience of working on software development and web development. Passionate to explore new technologies and use them in problem solving. Like to implement creative solutions to common problems..</h3>
-
 
 <br/>
 
@@ -31,10 +29,6 @@
 <a href="omkargarvare@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-
-###
-
-
 
 ###
 
