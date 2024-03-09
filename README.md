@@ -31,16 +31,25 @@
 
 
 <div align="left">
-   
+   <a href="https://www.javatpoint.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+   </a>
+  <a href="https://www.w3schools.com/cpp/default.asp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  </a>
+  <a href="https://www.w3schools.com/python/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  </a>
+  <a href="https://www.w3schools.com/js/default.asp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  </a>
+  <a href="https://www.w3schools.com/php/default.asp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  </a>
 </div>
 <hr>
 
