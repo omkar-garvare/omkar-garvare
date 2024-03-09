@@ -7,7 +7,7 @@
 ###
 
 
-<h3 align="center" >🌱 I'm currently in my third year of pursuing a Bachelor's degree in Technology (B.Tech).</h3>
+<h3 align="center" >🌱 Motivated and hard-working CSE undergraduate student with experience of working on software development and web development. Passionate to explore new technologies and use them in problem solving. Like to implement creative solutions to common problems..</h3>
 
 
 <br/>
