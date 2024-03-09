@@ -74,11 +74,17 @@
 </div>
 
 <h3 align="left"> 📊 Coding profiles:</h3>
-<p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/omkargaguzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
-<a href="https://leetcode.com/omkargarvare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-   <a href="https://www.codechef.com/users/omkargarvare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+<p align="left"> 
+  
+  <a href="https://www.codechef.com/users/omkargarvare" target="_blank"> 
+   <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
+  </a>
+
+  <a href="https://leetcode.com/omkargarvare/" target="_blank"> 
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
+  </a>
 </p>
+
 <br/>
 
 ###
