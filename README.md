@@ -6,6 +6,16 @@
 
 ###
 
+
+- 🌱 I'm currently in my third year of pursuing a Bachelor's degree in Technology (B.Tech).
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **omk**
+
+- ⚡ Fun fact **Opening batsman**
+<br/>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omkar-garvare.omkar-garvare&"  />
 </div>
@@ -15,6 +25,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
@@ -62,6 +73,7 @@
 <p align="left">
   <a href="https://auth.geeksforgeeks.org/user/omkargaguzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/omkargarvare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+   <a href="https://www.codechef.com/users/omkargarvare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
 </p>
 <br/>
 
