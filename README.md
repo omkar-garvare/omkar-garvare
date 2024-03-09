@@ -17,7 +17,7 @@
 </div>
 
 ###
-<h3 align="left">🛠 Contact me: </h3>
+<h3 align="left"> Conect with me: </h3>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/omkar-garvare-7aaba7234" target="_blank">
