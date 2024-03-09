@@ -60,9 +60,8 @@
 
 <h3 align="left">Coding profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/112pratik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="112pratik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/garuda5209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garuda5209" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pratikpatil5611/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratikpatil5611/practice/" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/omkargaguzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/omkargarvare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 <br/>
 
