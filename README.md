@@ -7,7 +7,7 @@
 ###
 
 
-<center>- 🌱 I'm currently in my third year of pursuing a Bachelor's degree in Technology (B.Tech).</center>
+<h3 align="center" >🌱 I'm currently in my third year of pursuing a Bachelor's degree in Technology (B.Tech).</h3>
 
 
 <br/>
