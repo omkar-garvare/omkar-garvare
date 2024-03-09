@@ -9,11 +9,7 @@
 
 - 🌱 I'm currently in my third year of pursuing a Bachelor's degree in Technology (B.Tech).
 
-- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **omk**
-
-- ⚡ Fun fact **Opening batsman**
 <br/>
 
 <div align="center">
@@ -24,11 +20,17 @@
 <h3 align="left">🛠 Contact me: </h3>
 
 <div align="center">
-  <img href="https://www.linkedin.com/in/omkar-garvare-7aaba7234" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-<!--   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
+ <a href="https://www.linkedin.com/in/omkar-garvare-7aaba7234" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
+</a>
   
-  <img href="omkargarvare@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+ <a href="https://github.com/omkar-garvare" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Spyware007 GitHub style="margin-bottom: 5px;" />
+</a>
+
+<a href="omkargarvare@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 
 ###
 
