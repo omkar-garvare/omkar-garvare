@@ -17,7 +17,7 @@
 </div>
 
 ###
-<h3 align="left"> Conect with me: </h3>
+<h3 align="left"> 🌐 Conect with me </h3>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/omkar-garvare-7aaba7234" target="_blank">
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">Web Tech</h3>
+<h3 align="left">💻 Web Tech</h3>
 
 ###
 
@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-<h3 align="left">Coding profiles:</h3>
+<h3 align="left"> 📊 Coding profiles:</h3>
 <p align="left">
   <a href="https://auth.geeksforgeeks.org/user/omkargaguzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/omkargarvare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
