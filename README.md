@@ -8,9 +8,7 @@
 ###
 
 <h3 align="center" >🌱 Motivated and hard-working CSE undergraduate student with experience of working on software development and web development. ⚡Passionate to explore new technologies and use them in problem solving. Like to implement creative solutions 👨‍💻.</h3>
-
 <br/>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omkar-garvare.omkar-garvare&"  />
 </div>
