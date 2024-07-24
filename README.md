@@ -89,8 +89,8 @@
 <h3 align="left"> 📊 Coding profiles:</h3>
 <a href="https://leetcode.com/omkargarvare/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/omkargaguzw" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/omkargarvare" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/omkargarvare" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
 
-<br/>
+<br/> -->
 
 
